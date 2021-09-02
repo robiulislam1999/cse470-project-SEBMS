@@ -1,0 +1,27 @@
+
+.parent{
+    -fx-background-color: transparent;
+}
+
+
+.tf_box{
+    -fx-background-color:transparent;
+    -fx-border-color: #78BC34;
+    -fx-border-width: 0px 0px 1px 0px;
+}
+
+.tf{
+    -fx-background-color: transparent;
+    -fx-prompt-text-fill: #cccccc; /* edited this */
+}
+
+.border{
+    -fx-border-color: #78BC34;  
+    -fx-border-width: 45px 0px 0px 0px;
+}
+
+.profileborder{
+    -fx-background-color: #78BC34;
+    -fx-border-color: #78BC34;
+    -fx-border-width: 87px 0px 0px 0px;
+}
